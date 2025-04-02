@@ -1,6 +1,5 @@
-Here is an updated **README** file for your **Contact List Project** with MongoDB integration:
 
----
+
 
 # 📱 Contact List Project
 
@@ -136,5 +135,10 @@ This project integrates **MongoDB** for storing contact details. Follow the step
 5. Open the `index.html` file in your browser or run a local server to view the contact list interface.
 
 ---
+**Screenshots:**
+![image](https://github.com/user-attachments/assets/1ba06232-44f9-48c2-b656-cc6a5b1e94e5)
+ 
+ ![image](https://github.com/user-attachments/assets/6c50d61a-ac7a-4cb7-b327-080861cba62f)
+
 
 This README is tailored for your **Contact List Project** and includes MongoDB integration details. You can adjust it further to fit any specific requirements or add additional details such as screenshots, deployment instructions, or contribution guidelines. Let me know if you need any more changes!
